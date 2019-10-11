@@ -3,10 +3,10 @@ HW, LAb, &amp; project
 
 Instructions: https://cs61a.org/
 
-###HW
+### HW
 
 
-###LAB
+### LAB
 
 
-###Project
+### Project
